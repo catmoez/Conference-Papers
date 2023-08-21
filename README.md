@@ -1,2 +1,2 @@
-# Conference-Papers
+# Conference Papers
 Conference and working papers.
